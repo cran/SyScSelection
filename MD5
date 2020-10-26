@@ -1,4 +1,4 @@
-b067c63d964d57d47a14624cc48f022d *DESCRIPTION
+d981d4e11eaf44ad68ab8c7c8eed654a *DESCRIPTION
 eb294678abcf05224395a08f06042172 *NAMESPACE
 6a627046d23151a43279e739b453f7b2 *R/baseb_expansion.R
 2f7c6d657f89fb29e602b755d16c0c18 *R/calc_mesh_size.R
@@ -23,7 +23,7 @@ e6e536d65b9a7f3fa27361027ce1c039 *R/stretch_to_unitspheroid.R
 dfb9e739cc83ca6828ffbd022b27b33f *R/univariate_shocks.R
 17ffcc972da1e3989157fbf79ea1d482 *R/vertices.R
 a4782eabedf5ead0502eb6f41e49c8e4 *README.md
-b09eb0a552ff69ab5336aff76b03f860 *build/vignette.rds
+d65c8dcecf7ee4fe659559a9857dcbcc *build/vignette.rds
 2e328e477eba9547b9697e8d1ab439ad *inst/doc/Usage.R
 cc3f443ac6d1f19826840c70bddf0bcf *inst/doc/Usage.Rmd
 689d21d6ae932862fa6bdd75e584811f *inst/doc/Usage.html
